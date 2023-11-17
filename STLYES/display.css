@@ -1,0 +1,19 @@
+
+
+.block{
+    display: block;
+    text-decoration: aqua;
+    text-align: left;
+    text-transform: uppercase;
+    color: chartreuse;
+
+    
+}
+.inline{
+    display: inline;
+    text-align: center;
+    text-wrap: wrap;
+    color: blue;
+}
+
+

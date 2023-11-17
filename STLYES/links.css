@@ -1,0 +1,29 @@
+p{
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    text
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.visited{
+    border: 5px;
+color: green;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+}
+
+.hover{
+    
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    color: rgb(255, 0, 0);
+}

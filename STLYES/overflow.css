@@ -1,0 +1,21 @@
+.overflow{
+    overflow: auto;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+}
+
+     .div{
+        overflow: visible;
+        width: 200px;
+        height: 65px;
+       
+      }
+
+
+p2{
+     border: 1px solid;;
+    overscroll-behavior-block: 30px;
+    text-align: left;
+    color: chartreuse;
+}
